@@ -1,0 +1,47 @@
+client
+browser-parse html
+server
+
+video-4
+h1 to h6 heading tags-use with hierarchy
+p-paragraph tag ->use lorem to randomly fill text
+a-to use links href-> target="_blank" to open in new tab
+
+video-5
+win+shift+s =snipping tool
+img tag ->src for file
+        -> alt incase img doesnt load
+        ->width set only 1 
+table and lists in html
+
+SEO-search engine optimization and web vitals--->www.web.dev
+-content
+-cls->
+-lcp->
+-fid->
+inspect and lighthouse
+
+forms
+get request
+post request
+
+inline and block elements
+
+inline-dont start on new line, necessary width only
+block-new line,
+        entire width of container, complete horizontal space 
+
+link for inline and block--https://github.com/CodeWithHarry/Sigma-Web-Dev-Course/blob/main/Video%2008/Comprehensive%20List.txt
+
+ids and classes
+id-->unqiue identifier->helps in linking and also helps in loading specific part of webpage**
+class-->can belong to multiple classes and have multiple classes.
+
+audio
+preload attribute 
+    by default none
+    if set to meta browser only downloadds meta
+    if set to auto browser will dowload file 
+
+
+css vertical align to align elements instead of deafault text alignment by browser
